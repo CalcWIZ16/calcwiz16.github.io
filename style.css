@@ -1,9 +1,12 @@
 :root {
     --dark-color: #1F1F1F;
     --light-color: #E0E0E0;
-    --primary-color: #00AAAA;
-    --secondary-color: #AA00AA;
-    --tertiary-color: #FF5555;
+    --primary-color: #6369D1;
+    --secondary-color: #D972FF;
+    --tertiary-color: #F76C5E;
+}
+body {
+    background-color: var(--dark-color);
 }
 
 /* boxes */
